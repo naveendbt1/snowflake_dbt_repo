@@ -1,0 +1,1 @@
+select * from NAVEEN_DB.NAVEEN_SC.sample11
